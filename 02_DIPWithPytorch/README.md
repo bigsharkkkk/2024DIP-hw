@@ -2,9 +2,11 @@
 
 1.实现图片泊松融合
 
+![image text](https://github.com/bigsharkkkk/2024DIP-hw/blob/main/02_DIPWithPytorch/融合结果/monalisa.png) 
 
+![image text](https://github.com/bigsharkkkk/2024DIP-hw/blob/main/02_DIPWithPytorch/融合结果/equation.png) 
 
-
+![image text](https://github.com/bigsharkkkk/2024DIP-hw/blob/main/02_DIPWithPytorch/融合结果/shark.png) 
 
 
 
