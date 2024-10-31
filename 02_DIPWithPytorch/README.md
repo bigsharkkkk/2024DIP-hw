@@ -13,3 +13,4 @@
 
 
 2.练习使用FCN网络
+![image text](https://github.com/bigsharkkkk/2024DIP-hw/blob/main/02_DIPWithPytorch/训练结果/result1.png) 
